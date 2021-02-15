@@ -18,6 +18,10 @@
     section {
         padding: 60px 0;
     }
+    .long-copy {
+        width: 80%;
+        margin-left: 10%;
+    }
 }
 /* Small Phones to small tablets from 481 to 767px*/
 @media only screen and (max-width: 767px) {
